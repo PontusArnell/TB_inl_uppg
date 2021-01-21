@@ -1,0 +1,13 @@
+D:\development\pfk_inlamning1\pfk_inlamning1\bin\Debug\netcoreapp3.1\pfk_inlamning1.exe
+D:\development\pfk_inlamning1\pfk_inlamning1\bin\Debug\netcoreapp3.1\pfk_inlamning1.deps.json
+D:\development\pfk_inlamning1\pfk_inlamning1\bin\Debug\netcoreapp3.1\pfk_inlamning1.runtimeconfig.json
+D:\development\pfk_inlamning1\pfk_inlamning1\bin\Debug\netcoreapp3.1\pfk_inlamning1.runtimeconfig.dev.json
+D:\development\pfk_inlamning1\pfk_inlamning1\bin\Debug\netcoreapp3.1\pfk_inlamning1.dll
+D:\development\pfk_inlamning1\pfk_inlamning1\bin\Debug\netcoreapp3.1\pfk_inlamning1.pdb
+D:\development\pfk_inlamning1\pfk_inlamning1\obj\Debug\netcoreapp3.1\pfk_inlamning1.csprojAssemblyReference.cache
+D:\development\pfk_inlamning1\pfk_inlamning1\obj\Debug\netcoreapp3.1\pfk_inlamning1.AssemblyInfoInputs.cache
+D:\development\pfk_inlamning1\pfk_inlamning1\obj\Debug\netcoreapp3.1\pfk_inlamning1.AssemblyInfo.cs
+D:\development\pfk_inlamning1\pfk_inlamning1\obj\Debug\netcoreapp3.1\pfk_inlamning1.csproj.CoreCompileInputs.cache
+D:\development\pfk_inlamning1\pfk_inlamning1\obj\Debug\netcoreapp3.1\pfk_inlamning1.dll
+D:\development\pfk_inlamning1\pfk_inlamning1\obj\Debug\netcoreapp3.1\pfk_inlamning1.pdb
+D:\development\pfk_inlamning1\pfk_inlamning1\obj\Debug\netcoreapp3.1\pfk_inlamning1.genruntimeconfig.cache
