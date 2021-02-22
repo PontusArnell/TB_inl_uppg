@@ -5,4 +5,6 @@ My name is Pontus and I did these assignemnts in different software languages to
 Feel free to copy what you want of the code you find here, if you like you could always put a comment in your code to where you 
 found the code you copied.
 
+It is the same solution to the assignment , but in different software languages.
+
 Best regards Pontus Arnell
